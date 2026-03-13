@@ -102,7 +102,7 @@ pip install taichi
 - **窗口大小**：减小 `WINDOW_RES` 可以提高渲染速度
 
 ## 示例效果
-
+![粒子引力交互效果](https://github.com/Eddyyyyyyyw/tuxingxue_hm1/raw/main/assets/demo.gif)
 当您运行程序并移动鼠标时，会看到粒子形成类似引力场的效果，跟随鼠标移动并在边界处反弹。
 
 ## 许可证
