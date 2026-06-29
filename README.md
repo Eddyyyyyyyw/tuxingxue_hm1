@@ -1,4 +1,4 @@
-# Taichi Gravity Swarm
+# Taichi Gravity Swarm 202411081102-简子越-人智
 
 一个使用 Taichi 库实现的 GPU 加速粒子系统模拟程序，展示了粒子对鼠标位置的实时引力响应效果。
 
